@@ -1,0 +1,13 @@
+.icon{
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  svg{
+    margin-right: 10px;
+  }
+  span{
+    color: rgb(110, 118, 125);
+    margin-right: 5px;
+    font-size: 13px;
+  }
+}

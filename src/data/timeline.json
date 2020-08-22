@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "user": {
+        "avatar": "https://avatars2.githubusercontent.com/u/59808416?s=460&u=58981469d609584af2a665aa29ed021677e63387&v=4",
+        "name": "Amandita",
+        "username": "ams_amandaa"
+      },
+      "tweet": {
+        "text": "exausta de sempre pensar “não vou mais ser trouxa não” e meia hora depois estar sendo trouxa",
+        "img": ["https://pbs.twimg.com/media/EfIvbuOXkAEBXvr?format=jpg&name=large", "https://pbs.twimg.com/media/Ef6j0KtXkAAIUqI?format=jpg&name=large"]
+      }
+    },
+    {
+      "id": 2,
+      "user": {
+        "avatar": "https://pbs.twimg.com/profile_images/1238212432922906625/TxKHsb7h_400x400.jpg",
+        "name": "luscas",
+        "username": "luscas"
+      },
+      "tweet": {
+        "text": "exausta de sempre pensar “não vou mais ser trouxa não” e meia hora depois estar sendo trouxa",
+        "img": ["https://pbs.twimg.com/media/Ef6j0KtXkAAIUqI?format=jpg&name=large"]
+      }
+    }
+  ]
+}
